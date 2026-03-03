@@ -24,7 +24,7 @@
 
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    height="180" 
+    height="150" 
     align="right"
   />
 
