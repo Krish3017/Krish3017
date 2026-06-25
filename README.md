@@ -1,30 +1,30 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg,#00DBDE,#FC00FF);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               font-weight: 700;">
-    Hi 👋 I'm Krish
-  </span>
-</h1>
+<h1 align="center">Hi 👋 I'm Krish Ramanandi</h1>
 
 <h3 align="center">
   <span style="color:#8b949e;">
-    Full-Stack Developer • Frontend-Focused Engineer • B.Tech CSE
+    AI Engineer · Full-Stack Developer · B.Tech CSE Student
   </span>
 </h3>
 
-###
+<p align="center">
+  <span style="color:#8b949e;">
+    Building scalable AI systems and production-ready full-stack applications.
+  </span>
+</p>
+
+<br/>
+
 <div>
 
   <img 
-    src="https://streak-stats.demolab.com?user=Krish3017&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="220" 
+    src="https://streak-stats.demolab.com?user=Krish3017&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%5B%20M%5D" 
+    height="200" 
     align="left"
   />
 
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    height="170" 
+    height="200" 
     align="right"
   />
 
@@ -32,96 +32,116 @@
 
 <br clear="both"/>
 
-###
+### 🧠 About Me
 
-<h3 align="left">🧠 About Me</h3>
+- 🎓 B.Tech Computer Science Engineering student focused on solving real-world problems through software
+- 🤖 Strong interest in AI engineering, backend development, and full-stack applications
+- 🏗️ Experience building production-ready applications with modern technologies
+- 🔗 Working on multi-agent AI systems, RAG pipelines, automation, and scalable backend architectures
+- 🧩 Focused on clean APIs, efficient databases, and maintainable codebases
+- 🌍 Active open-source contributor and hackathon participant
 
-🚀 I’m a Computer Science student passionate about building scalable systems and clean backend architectures.  
-💻 I work across frontend and backend, but I naturally gravitate toward APIs, databases, and system design.
+### 🔭 Currently Exploring
 
-🔥 What drives me:
+Multi-agent AI systems · LangGraph & AI workflows · Retrieval-Augmented Generation (RAG) · Backend architecture · System design · Cloud deployment
 
-- 🧩 Writing clean, maintainable production-level code  
-- 🏗️ Building real-world full-stack applications  
-- ⚡ Optimizing performance & improving architecture  
-- 🌍 Contributing to open-source and learning by building  
+### 🚀 Featured Projects
 
-🎯 My focus is simple: build systems that scale and code that lasts.
-###
+<table>
+<tr>
+<td width="50%" valign="top">
 
-###
+#### 🤖 SupportFlow AI
+A production-ready multi-agent customer support platform.
 
-<h3 align="left">⚙️ Technologies I Work With</h3>
+Specialized AI agents collaborate to understand customer intent, retrieve knowledge, prioritize requests, generate responses, and escalate complex cases automatically.
 
-<div align="left">
+**Features**
+- Multi-agent workflow (LangGraph)
+- Retrieval-Augmented Generation
+- Gmail integration & live chat
+- Ticket management
+- Priority detection & escalation
+- Automated response generation
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34"/>
+**Stack**
+`LangGraph` `LangChain` `FastAPI` `Next.js` `TypeScript` `ChromaDB` `SQLite` `Groq` `Gmail API` `Tailwind CSS`
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34"/>
+</td>
+<td width="50%" valign="top">
 
-<!-- Database & Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="34"/>
+#### 🧠 Nexus
+A lightweight RAG system for intelligent document understanding.
 
-</div>
+A local RAG pipeline that processes PDF documents, generates embeddings, performs semantic search, and produces context-aware answers using open-source models.
 
-###
+**Features**
+- PDF ingestion & document chunking
+- Local embeddings
+- Semantic search
+- Cosine similarity retrieval
+- Context-aware AI responses
 
-<h3 align="left">📈 Contribution Heatmap</h3>
+**Stack**
+`LangChain` `MiniLM` `Groq` `TypeScript` `Local Vector Store`
 
-<img src="https://ghchart.rshah.org/black/Krish3017" />
+</td>
+</tr>
+</table>
 
-###
-<h3 align="left">🌐 Connect With Me</h3>
+### ⚙️ Technical Skills
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,c,cpp" />
+
+**AI & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" height="48"/>
+
+&nbsp; `RAG` `ChromaDB` `XGBoost` `Groq API`
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
+
+### 🏆 Achievements
+
+- 🌱 GirlScript Summer of Code 2026 Contributor
+- 📜 NPTEL Top 1% Performer
+- 🏁 Odoo Hackathon Finalist
+- 🌍 Open Source Contributor
+
+### 💭 Philosophy
+
+> I enjoy building software that solves real-world problems — whether through AI-powered automation, scalable backend systems, or full-stack applications — while writing clean, maintainable, and production-ready code.
+
+### 📊 Contribution Activity
+
+Check out my live contribution graph and recent activity on my [GitHub profile](https://github.com/Krish3017).
+
+### 🌐 Connect With Me
 
 <div align="left">
 
 <a href="mailto:krishramanandi30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000&color=FF4B2B" />
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/krish-ramanandi-83622b30b">
   <img src="https://img.shields.io/badge/LinkedIn-Krish_Ramanandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&color=1E90FF" />
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://github.com/Krish3017/Certificates">
   <img src="https://img.shields.io/badge/Certifications-View-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=2F2F2F" />
 </a>
 
-</div>
 </div>
