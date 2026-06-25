@@ -16,12 +16,9 @@
 
 <div>
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Krish3017&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%5B%20M%5D" 
-    height="200" 
-    align="left"
-  />
-
+<img
+  src="https://streak-stats.demolab.com?user=Krish3017&background=0D1117&border=484F58&stroke=484F58&ring=E6EDF3&fire=E6EDF3&currStreakNum=FFFFFF&currStreakLabel=E6EDF3&sideNums=E6EDF3&sideLabels=A5A5A5&dates=7D8590"
+/>
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
     height="200" 
@@ -97,7 +94,7 @@ A local RAG pipeline that processes PDF documents, generates embeddings, perform
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,cpp" />
 
 **AI & Machine Learning**
 <br/>
@@ -111,7 +108,7 @@ A local RAG pipeline that processes PDF documents, generates embeddings, perform
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 
 ### 🏆 Achievements
 
