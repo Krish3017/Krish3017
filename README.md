@@ -21,7 +21,7 @@
 />
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    height="200" 
+    height="175" 
     align="right"
   />
 
