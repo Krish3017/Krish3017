@@ -110,12 +110,6 @@ A local RAG pipeline that processes PDF documents, generates embeddings, perform
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 
-### 🏆 Achievements
-
-- 🌱 GirlScript Summer of Code 2026 Contributor
-- 📜 NPTEL Top 1% Performer
-- 🏁 Odoo Hackathon Finalist
-- 🌍 Open Source Contributor
 
 ### 💭 Philosophy
 
