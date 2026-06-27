@@ -111,14 +111,6 @@ A local RAG pipeline that processes PDF documents, generates embeddings, perform
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 
 
-### 💭 Philosophy
-
-> I enjoy building software that solves real-world problems — whether through AI-powered automation, scalable backend systems, or full-stack applications — while writing clean, maintainable, and production-ready code.
-
-### 📊 Contribution Activity
-
-Check out my live contribution graph and recent activity on my [GitHub profile](https://github.com/Krish3017).
-
 ### 🌐 Connect With Me
 
 <div align="left">
