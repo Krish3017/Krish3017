@@ -17,7 +17,7 @@
 <div>
 
 <img
-  src="https://streak-stats.demolab.com?user=Krish3017&background=0D1117&border=484F58&stroke=484F58&ring=E6EDF3&fire=E6EDF3&currStreakNum=FFFFFF&currStreakLabel=E6EDF3&sideNums=E6EDF3&sideLabels=A5A5A5&dates=7D8590"
+  src="https://streak-stats.demolab.com?user=Krish3017&background=0D1117&border=484F58&stroke=484F58&ring=E6EDF3&fire=E6EDF3&currStreakNum=FFFFFF&currStreakLabel=E6EDF3&sideNums=E6EDF3&sideLabels=A5A5A5&dates=7D8590](https://streak-stats.demolab.com?user=Krish3017&background=0D1117&border=484F58&stroke=484F58&ring=E6EDF3&fire=E6EDF3&currStreakNum=FFFFFF&currStreakLabel=E6EDF3&sideNums=E6EDF3&sideLabels=A5A5A5&dates=7D8590&v=2"
 />
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
