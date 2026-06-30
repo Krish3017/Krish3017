@@ -29,18 +29,9 @@
 
 <br clear="both"/>
 
-### 🧠 About Me
+### 👋 About Me
 
-- 🎓 B.Tech Computer Science Engineering student focused on solving real-world problems through software
-- 🤖 Strong interest in AI engineering, backend development, and full-stack applications
-- 🏗️ Experience building production-ready applications with modern technologies
-- 🔗 Working on multi-agent AI systems, RAG pipelines, automation, and scalable backend architectures
-- 🧩 Focused on clean APIs, efficient databases, and maintainable codebases
-- 🌍 Active open-source contributor and hackathon participant
-
-### 🔭 Currently Exploring
-
-Multi-agent AI systems · LangGraph & AI workflows · Retrieval-Augmented Generation (RAG) · Backend architecture · System design · Cloud deployment
+I'm a B.Tech Computer Science Engineering student passionate about building software that solves real-world problems. I enjoy working on AI Engineering, Backend Development, and Full-Stack Development, with a focus on LLMs, Multi-Agent AI Systems, RAG pipelines, and scalable applications. I'm always learning, building, and contributing to open source.
 
 ### 🚀 Featured Projects
 
