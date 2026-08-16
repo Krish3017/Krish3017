@@ -1,5 +1,8 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,35:0D1117,70:1E3A8A,100:3B82F6&text=Krish%20Ramanandi&fontColor=F8FAFC&fontSize=58&fontAlignY=36&animation=twinkling&desc=AI%20%7C%20Full-Stack%20Engineer"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,35:0D1117,70:1E3A8A,100:3B82F6&text=Krish%20Ramanandi&fontColor=F8FAFC&fontSize=42&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Full-Stack%20Engineer&descSize=16&descAlignY=58&descColor=CBD5E1"
+  />
 </p>
 
 <p align="center">
