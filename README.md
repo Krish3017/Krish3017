@@ -4,7 +4,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,35:0D1117,70:1E3A8A,100:3B82F6&text=Krish%20Ramanandi&fontColor=F8FAFC&fontSize=42&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Full-Stack%20Engineer&descSize=16&descAlignY=58&descColor=CBD5E1"
   />
 </p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Krish3017&background=0D1117&border=484F58&stroke=484F58&ring=E6EDF3&fire=E6EDF3&currStreakNum=FFFFFF&currStreakLabel=E6EDF3&sideNums=E6EDF3&sideLabels=A5A5A5&dates=7D8590&v=2"
